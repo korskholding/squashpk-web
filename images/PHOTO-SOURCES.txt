@@ -1,0 +1,23 @@
+Fotografie doplnené pri úpravách náhľadu (november 2026)
+
+Stolný tenis (hero aj karta na úvodnej stránke)
+  Súbor: images/sports/stolny-hero.jpg
+  Autor: Vladimir Srajber
+  Zdroj: Pexels, https://www.pexels.com/photo/table-tennis-paddle-and-a-ball-13793163/
+  Licencia: Pexels License (voľné použitie)
+
+Teambuilding / stretnutie zamestnancov (hero aj karta na úvodnej stránke)
+  Súbor: images/sports/teambuilding-hero.jpg
+  Autor: fauxels
+  Zdroj: Pexels, https://www.pexels.com/photo/photo-of-people-doing-handshakes-3184338/
+  Licencia: Pexels License (voľné použitie)
+  (overiť presný názov fotky podľa ID 3184338)
+
+Galéria TechGym
+  Fotografie z existujúceho webu / zrkadla (pôvodne z priestorov TechGym PK).
+  Súbory: images/gallery/techgym-01.jpg až techgym-09.jpg
+  (kópie images/sports/techgym-01..07, techgym-treadmill, techgym-hero)
+
+Hero koláž na úvodnej stránke
+  Vlastné fotografie centra: squash-hero, techgym-treadmill, lezecka-wide
+  a stock fotografia stolného tenisu (stolny-hero, pozri vyššie).
